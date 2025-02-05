@@ -1,4 +1,4 @@
-# 🌟 Excel-Finance-Analytics
+# 🌟 AtliQ Financial Insights
 **AtliQ Hardware's Comprehensive Finance Analytics Solution** 💰
 
 ---
