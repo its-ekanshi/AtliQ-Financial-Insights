@@ -1,109 +1,79 @@
-# 🌟 AtliQ Financial Insights
+# AtliQ Financial Insights
 **AtliQ Hardware's Comprehensive Finance Analytics Solution** 💰
 
 ---
 
-## 🚀 **Finance Report Overview**
-This project provides actionable insights into AtliQ Hardware's financial performance through advanced reporting techniques, empowering data-driven decision-making and strategic planning.
+## Project Overview
+This project provides actionable insights into AtliQ Hardware's financial performance through advanced reporting techniques. It empowers data-driven decision-making, supporting strategic planning and effective communication with stakeholders.
 
 ---
 
-## 📚 **Table of Contents**  
-1. [💡 Project Objective](#-project-objective)  
-2. [🛠️ Tools and Technologies](#-tools-and-technologies)  
-3. [📊 Reports Overview](#-reports-overview)  
-   - [🔍 Finance Report](#-finance-report)  
-4. [🔑 Key Skills and Techniques Used](#-key-skills-and-techniques-used)  
-5. [✨ Highlights](#-highlights)  
-6. [🤝 Soft Skills](#-soft-skills)  
+## Objective
+Developed a **Finance Analytics Solution** to:
+- Evaluate AtliQ's financial performance.
+- Support strategic business decisions.
+- Facilitate communication with stakeholders through clear financial reporting.
 
 ---
 
-## 💡 **Project Objective**
-
-To create a comprehensive **Finance Analytics solution** for AtliQ Hardware to:
-- Evaluate financial performance.
-- Support strategic decision-making.
-- Facilitate effective communication with stakeholders.
-
----
-
-## 🛠️ **Tools and Technologies**
-
-| Tool               | Purpose                                 |
-|--------------------|-----------------------------------------|
-| **Power Query**    | Data extraction and transformation.    |
-| **Power Pivot**    | Data modeling and advanced analytics.  |
-| **DAX**            | Creating calculated columns and KPIs.  |
-| **Excel**          | Visualization and report creation.     |
+## Tools & Technologies
+- **Power Query**: Data extraction and transformation.
+- **Power Pivot**: Data modeling and advanced analytics.
+- **DAX**: Calculated columns and key performance indicators (KPIs).
+- **Excel**: Visualization and report creation.
 
 ---
 
-## 📊 **Reports Overview**
-
-### 🔍 **Finance Report**
-| Report                         | Description                                  |
-|--------------------------------|----------------------------------------------|
-| 💰 **Profit & Loss (P&L) by Fiscal Years** | Financial performance by year and division. |
-| 📆 **Profit & Loss (P&L) by Fiscal Months** | Month-by-month breakdown of financial data. |
-| 🌐 **Profit & Loss (P&L) for Markets**    | Market-level financial performance analysis.|
-| 📊 **Gross Margin % (GM%) by Quarters**  | Quarterly gross margin insights by subzones.|
+## Key Reports
+- **Profit & Loss (P&L) by Fiscal Year**: Yearly breakdown of financial performance.
+- **Profit & Loss (P&L) by Fiscal Month**: Monthly analysis of financial data.
+- **Profit & Loss (P&L) for Markets**: Performance analysis for different market regions.
+- **Gross Margin % (GM%) by Quarters**: Insights into quarterly gross margins.
 
 ---
 
-## 🔑 **Key Skills and Techniques Used**
+## Key Skills and Techniques Used
+1. **ETL Process (Extract, Transform, Load)**:
+   - Cleaned and transformed financial datasets for consistency.
+   
+2. **Data Modeling**:
+   - Designed a **Star Schema** for organized reporting and analysis.
+   
+3. **Power Pivot & Pivot Tables**:
+   - Developed dynamic, interactive reports for financial performance.
 
-### 1️⃣ **ETL Process (Extract, Transform, Load)**
-- Imported multiple datasets into **Power Query**.
-- Cleaned and transformed data for consistency and accuracy.
+4. **DAX (Data Analysis Expressions)**:
+   - Created key metrics and KPIs to drive insights.
 
-### 2️⃣ **Data Modeling**
-- Established relationships using a **Star Schema**.
-- Connected tables for seamless reporting.
-
-### 3️⃣ **Power Pivot and Pivot Tables**
-- Developed calculated columns and measures.
-- Utilized Pivot Tables for dynamic and interactive reports.
-
-### 4️⃣ **DAX (Data Analysis Expressions)**
-- Created key metrics using formulas such as:
-  - `CALCULATE`
-  - `SUM`
-  - `DIVIDE`
-  - `RELATED`
-
-### 5️⃣ **Formatting and Report Design**
-- 🎨 Applied **Conditional Formatting** for trend visualization.
-- 🖼️ Designed user-friendly layouts for improved readability.
+5. **Report Design & Formatting**:
+   - Applied **Conditional Formatting** for trend visualization.
+   - Created user-friendly, easy-to-navigate reports.
 
 ---
 
-## ✨ **Highlights**
-
-This project showcases the power of advanced analytics tools and methodologies to drive financial success. Key highlights include:
-
-- 🚀 **Performance Insights**: Identify trends and areas for improvement.  
-- 🌍 **Market Trends**: Analyze financial performance across different regions.  
-- ⭐ **Strategic Reporting**: Build reports aligned with organizational goals.
+## Key Highlights
+- **Financial Insights**: Identified key trends and areas for improvement.
+- **Market Performance**: Analyzed financial data across different regions.
+- **Strategic Reporting**: Built reports aligned with business goals to support decision-making.
 
 ---
 
-## 🤝 **Soft Skills**
-
-| Soft Skill                      | Application                                  |
-|---------------------------------|----------------------------------------------|
-| ✅ Refined Understanding         | Deep knowledge of finance reporting.         |
-| 🎨 User-Centric Design          | Created intuitive, easy-to-navigate reports.|
-| 🛠️ Optimization                 | Improved report efficiency through fine-tuning. |
-| 📋 Systematic Planning          | Followed a structured approach to reporting.|
+## Soft Skills
+- **Refined Understanding**: In-depth knowledge of financial reporting.
+- **User-Centric Design**: Created intuitive reports for easy navigation.
+- **Optimization**: Fine-tuned reports for efficiency and clarity.
+- **Systematic Planning**: Followed a structured approach to financial reporting.
 
 ---
 
-## 📎 **Links to Key Documents**
-- [Profit & Loss by Fiscal Year](https://github.com/its-ekanshi/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)  
-- [Profit & Loss by Fiscal Months](https://github.com/its-ekanshi/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)  
+## Links to Key Documents
+- [Profit & Loss by Fiscal Year](https://github.com/its-ekanshi/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)
+- [Profit & Loss by Fiscal Months](https://github.com/its-ekanshi/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)
 - [Profit & Loss for Markets](https://github.com/its-ekanshi/Excel-Finance-Analytics/blob/main/P%20%26%20L%20for%20Markets.pdf)
 
 ---
 
+## Conclusion
+This project demonstrates the power of finance analytics in supporting data-driven decision-making. By utilizing advanced tools like Power Pivot and DAX, AtliQ Hardware can optimize financial planning and strategically communicate performance insights to stakeholders.
 
+---
