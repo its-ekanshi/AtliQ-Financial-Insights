@@ -73,10 +73,6 @@ Developed a **Finance Analytics Solution** to:
 
 ---
 
-## Conclusion
-This project demonstrates the power of finance analytics in supporting data-driven decision-making. By utilizing advanced tools like Power Pivot and DAX, AtliQ Hardware can optimize financial planning and strategically communicate performance insights to stakeholders.
-
----
-
-## 📬 Connect with Me
-Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** or check out my **[GitHub](https://github.com/its-ekanshi/)** for more projects.
+## 📬 Contact
+**[LinkedIn](https://www.linkedin.com/in/ekanshisaxena/)** 
+**[GitHub](https://github.com/its-ekanshi/)** 
